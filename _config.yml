@@ -9,7 +9,7 @@ publisher: "English and MLL UMiami"
 description: "Digital Environmental Humanities Project"
 
 # PROD
-url: "http://archipelagosjournal.org"
+url: "http://rm4-25.github.io/FL-Sounds2/"
 baseurl: ""
 future: True
 incremental: False
