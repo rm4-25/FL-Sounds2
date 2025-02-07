@@ -1,12 +1,12 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink: none
+permalink: 'relative_permalinks'
 
 # Setup
 title: "Listening in/to South Florida"
 publisher: "English and MLL UMiami"
-description: "aA Digital Environmental Humanities Project"
+description: "Digital Environmental Humanities Project"
 
 # PROD
 url: "http://archipelagosjournal.org"
