@@ -1,6 +1,6 @@
 // ![South Florida Canopy/Horizon][img.jpg] Select from [Unsplash](https://unsplash.com/s/photos/south-florida)
 
-[Overview](##test) | [Table](##elizabeth) | [Bibliography & Resource](##prish) | [Roles & Biography](##kathy)
+[Overview](##overview) | [Table](##elizabeth) | [Bibliography & Resource](##prish) | [Roles & Biography](##kathy)
 
 ### Overview
 
@@ -18,7 +18,3 @@ Bibliography and resources
 
 ### Kathy
 Roles and Bios
-
-<a name="test">
-  Test
-</a>
