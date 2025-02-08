@@ -1,6 +1,6 @@
 // ![South Florida Canopy/Horizon][img.jpg] Select from [Unsplash](https://unsplash.com/s/photos/south-florida)
 
-[Overview](###-Overview) | [Table](###-Elizabeth) | [Bibliography & Resource](###-Prish) | [Roles & Biography](###-Kathy)
+[Overview](###Overview) | [Table](###Elizabeth) | [Bibliography & Resource](###Prish) | [Roles & Biography](###Kathy)
 
 ### Overview
 What does how we connect to the environment say about our relationship to it? This Leaflet Story Map attempts to answer this question through sounds captured while walking or swimming in South Florida's green or blue spaces. While these recordings are a sample of the sounds that can be heard throughout South Florida, they are meant to engender similar perspectives elsewhere. The regions of our research include Coral Gables, Coconut Grove, Hollywood, South Miami Garden, North Beach, Westchester, and Everglades National Park. The mapped soundscapes look to challenge stable definitions of wilderness and wild. The sounds recorded in these spaces are records we believe worth digitizing and making public because they capture the entanglement of human and nonhuman throughout urban and natural spaces in South Florida.
