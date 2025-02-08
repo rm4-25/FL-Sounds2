@@ -7,6 +7,9 @@ permalink: none
 title: "Listening in/to South Florida"
 publisher: "English and MLL UMiami"
 description: "Digital Environmental Humanities Project"
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme #add this line to the plug in list once we add leaflet
 
 # PROD
 url: "http://rm4-25.github.io/FL-Sounds2/"
