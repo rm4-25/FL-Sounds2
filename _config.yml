@@ -1,15 +1,15 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink: none
+permalink: https://github.com/rm4-25/FL-Sounds2/tree/master
 
 # Setup
-title: "Listening in/to South Florida"
-publisher: "English and MLL UMiami"
-description: "Digital Environmental Humanities Project"
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme #add this line to the plug in list once we add leaflet
+title: "Listening in/to South Florida"
+publisher: "English and MLL UMiami"
+description: "Digital Environmental Humanities Project"
 
 # PROD
 url: "http://rm4-25.github.io/FL-Sounds2/"
