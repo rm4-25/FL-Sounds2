@@ -1,4 +1,4 @@
-// ![South Florida Canopy/Horizon][img.jpg] Select from [Unsplash](https://unsplash.com/s/photos/south-florida)
+![South Florida Canopy/Horizon][img.jpg] Select from [Unsplash](https://unsplash.com/s/photos/south-florida)
 
 [Overview](##overview) | [Table](##elizabeth) | [Bibliography & Resource](##prish) | [Roles & Biography](##kathy)
 
