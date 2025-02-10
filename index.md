@@ -6,11 +6,26 @@ The project as a whole seeks to reassert the agency and history of animals in as
 
 [^1]:[Census Reporter](https://censusreporter.org/profiles/31000US33100-miami-fort-lauderdale-west-palm-beach-fl-metro-area/)
 
+
+### Bios
+
+**Raul Martin IV - Project Editor and Soundcatcher** 
+
+Raul is a PhD student of English at the University of Miami. His research interests include environmental and animal studies, popular culture, speculative literature, and digital environmental humanities. His creative writing and scholarship have or will appear in _Art Studio INK, Pulse! Literary Magazine, Habits: The Good the Bad and the Ugly_, and _Gothic Nature Journal_. He is also working on a book chapter for a major publisher.
+
+**Prishanti Pathak (she/her) - Project Developer and Soundcatcher**
+
+Prishanti (Prish) is a second year PhD student in the English and Creative Writing Department at University of Miami. Her research interests are in border and migration studies, and women's literature. 
+
+**Kathy Rubio - Project Developer and Soundcatcher**
+
+Kathy is a PhD student in the Modern Languages and Literatures Department at UM, specializing in Francophone sociolinguistics and cultural studies in France's Outre-mer. She is delighted to take part in this digital project mapping sounds of South Florida.
+
+**Elizabeth Cornick**
+
 ### Elizabeth 
 Table, with weeks for rows and following columns: Task, Asignee, Status
 
 ### Prish
 Bibliography and resources
 
-### Kathy
-Roles and Bios
