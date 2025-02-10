@@ -37,25 +37,25 @@ Elizabeth is a Ph.D. student in the Department of English at the University of M
 </thead>
 <tbody>
 <tr>
-<td>Week 5</td>
+<td>5</td>
 <td>Collect 2 samples of local sound; Group Report 1</td>
 <td>In progress</td>
 <td>Raul, Kathy, Prishanti, &amp; Elizabeth</td>
 </tr>
 <tr>
-<td>Week 6</td>
+<td>6</td>
 <td>Collect 1-2 samples of local sound</td>
 <td>Not started</td>
 <td>Raul, Kathy, Prishanti, &amp; Elizabeth</td>
 </tr>
 <tr>
-<td>Week 7</td>
+<td>7</td>
 <td>Leaflet storymap creation; Group Report 2</td>
 <td>Not started</td>
 <td>Raul &amp; Elizabeth</td>
 </tr>
 <tr>
-<td>Week 8</td>
+<td>8</td>
 <td>Leaflet descriptive narratives for storymap points</td>
 <td>Not started</td>
 <td>Kathy &amp; Prishanti</td>
