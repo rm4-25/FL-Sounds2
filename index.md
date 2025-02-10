@@ -26,6 +26,12 @@ Kathy is a PhD student in the Modern Languages and Literatures Department at UM,
 Elizabeth is a Ph.D. student in the Department of English at the University of Miami. Her research focuses on American studies, queer studies, and the digital humanities. Elizabeth was formerly a Digital Humanities Graduate Fellow at UM. As a fellow, she researched fictional representations of Miami to contribute to Dr. Allison Schifani’s project _Mapping Imaginary Miami_.
 
 ### Elizabeth 
+| First Header | Second Header | Third Header |
+| ------------- | ------------- | ------------- |
+| Content Cell | Content Cell | Content Cell |
+| Content Cell | Content Cell | Content Cell |
+| Content Cell | Content Cell | Content Cell |
+| Content Cell | Content Cell | Content Cell |
 Table, with weeks for rows and following columns: Task, Asignee, Status
 
 ### Prish
