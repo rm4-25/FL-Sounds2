@@ -26,13 +26,12 @@ Kathy is a PhD student in the Modern Languages and Literatures Department at UM,
 Elizabeth is a Ph.D. student in the Department of English at the University of Miami. Her research focuses on American studies, queer studies, and the digital humanities. Elizabeth was formerly a Digital Humanities Graduate Fellow at UM. As a fellow, she researched fictional representations of Miami to contribute to Dr. Allison Schifani’s project _Mapping Imaginary Miami_.
 
 ### Elizabeth 
-| First Header | Second Header | Third Header |
-| ------------- | ------------- | ------------- |
-| Content Cell | Content Cell | Content Cell |
-| Content Cell | Content Cell | Content Cell |
-| Content Cell | Content Cell | Content Cell |
-| Content Cell | Content Cell | Content Cell |
-Table, with weeks for rows and following columns: Task, Asignee, Status
+| Week | Task | Status | Assignee |
+| ------------- | ------------- | ------------- | ------------- |
+| Week 5 | Collect 2 samples of local sound; Group Report 1 | In progress | Raul, Kathy, Prishanti, & Elizabeth |
+| Week 6 | Collect 1-2 samples of local sound | Not started | Raul, Kathy, Prishanti, & Elizabeth |
+| Week 7 | Leaflet storymap creation; Group Report 2 | Not started | Raul & Elizabeth |
+| Week 8 | Leaflet descriptive narratives for storymap points | Not started | Kathy & Prishanti |
 
 ### Prish
 Bibliography and resources
