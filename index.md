@@ -26,12 +26,43 @@ Kathy is a PhD student in the Modern Languages and Literatures Department at UM,
 Elizabeth is a Ph.D. student in the Department of English at the University of Miami. Her research focuses on American studies, queer studies, and the digital humanities. Elizabeth was formerly a Digital Humanities Graduate Fellow at UM. As a fellow, she researched fictional representations of Miami to contribute to Dr. Allison Schifani’s project _Mapping Imaginary Miami_.
 
 ### Elizabeth 
-| Week | Task | Status | Assignee |
-| ------------- | ------------- | ------------- | ------------- |
-| Week 5 | Collect 2 samples of local sound; Group Report 1 | In progress | Raul, Kathy, Prishanti, & Elizabeth |
-| Week 6 | Collect 1-2 samples of local sound | Not started | Raul, Kathy, Prishanti, & Elizabeth |
-| Week 7 | Leaflet storymap creation; Group Report 2 | Not started | Raul & Elizabeth |
-| Week 8 | Leaflet descriptive narratives for storymap points | Not started | Kathy & Prishanti |
+<table>
+<thead>
+<tr>
+<th>Week</th>
+<th>Task</th>
+<th>Status</th>
+<th>Assignee</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Week 5</td>
+<td>Collect 2 samples of local sound; Group Report 1</td>
+<td>In progress</td>
+<td>Raul, Kathy, Prishanti, &amp; Elizabeth</td>
+</tr>
+<tr>
+<td>Week 6</td>
+<td>Collect 1-2 samples of local sound</td>
+<td>Not started</td>
+<td>Raul, Kathy, Prishanti, &amp; Elizabeth</td>
+</tr>
+<tr>
+<td>Week 7</td>
+<td>Leaflet storymap creation; Group Report 2</td>
+<td>Not started</td>
+<td>Raul &amp; Elizabeth</td>
+</tr>
+<tr>
+<td>Week 8</td>
+<td>Leaflet descriptive narratives for storymap points</td>
+<td>Not started</td>
+<td>Kathy &amp; Prishanti</td>
+</tr>
+</tbody>
+</table>
+
 
 ### Prish
 Bibliography and resources
