@@ -28,6 +28,7 @@ Elizabeth is a Ph.D. student in the Department of English at the University of M
 ### Elizabeth 
 | Week | Task | Status | Assignee |
 | ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- |
 | Week 5 | Collect 2 samples of local sound; Group Report 1 | In progress | Raul, Kathy, Prishanti, & Elizabeth |
 | Week 6 | Collect 1-2 samples of local sound | Not started | Raul, Kathy, Prishanti, & Elizabeth |
 | Week 7 | Leaflet storymap creation; Group Report 2 | Not started | Raul & Elizabeth |
