@@ -75,7 +75,7 @@ Works Cited
 
 Florida State Parks. “Mound Key Archaeological State Park.” Florida State Parks, 2024 [link text](www.floridastateparks.org/parks-and-trails/mound-key-archaeological-state-park.)
 
-MacFadyen, Joshua. “Digital Environmental Humanities.” De Gruyter EBooks, 4 Apr. 2022, pp. 97–106, [link text](https://doi.org/10.1515/9783110430295-008.)
+MacFadyen, Joshua. “Digital Environmental Humanities.” De Gruyter EBooks, 4 Apr. 2022, pp. 97–106, [https://doi.org/10.1515/9783110430295-008.](https://doi.org/10.1515/9783110430295-008.)
 
 “Maps - Big Cypress National Preserve (U.S. National Park Service).” Nps.gov, 2024, [link text](www.nps.gov/bicy/planyourvisit/maps.htm.) Accessed 11 Feb. 2025.
 
