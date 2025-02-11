@@ -77,18 +77,18 @@ Florida State Parks. “Mound Key Archaeological State Park.” Florida State Pa
 
 MacFadyen, Joshua. “Digital Environmental Humanities.” De Gruyter EBooks, 4 Apr. 2022, pp. 97–106, [https://doi.org/10.1515/9783110430295-008.](https://doi.org/10.1515/9783110430295-008.)
 
-“Maps - Big Cypress National Preserve (U.S. National Park Service).” Nps.gov, 2024, [link text](www.nps.gov/bicy/planyourvisit/maps.htm.) Accessed 11 Feb. 2025.
+“Maps - Big Cypress National Preserve (U.S. National Park Service).” Nps.gov, 2024, [www.nps.gov/bicy/planyourvisit/maps.htm.](www.nps.gov/bicy/planyourvisit/maps.htm) Accessed 11 Feb. 2025.
 
-McGill University, and Bieler School of Environment. “Digital Environmental Humanities.” Dig-Eh.org, 2023, [link text](dig-eh.org/). Accessed 11 Feb. 2025.
+McGill University, and Bieler School of Environment. “Digital Environmental Humanities.” Dig-Eh.org, 2023, [dig-eh.org/](dig-eh.org/). Accessed 11 Feb. 2025.
 
 Musiol, Hanna. “"beyond the Word: " Immersion, Art, and Theory in Environmental and Digital Humanities Prototyping.” Digital Humanities Quaterly, vol. 15, no. 2, 1 Jan. 2021. Accessed 11 Feb. 2025.
 
-NPS Night Skies and Natural Sounds Division, and Colorado State University Sound and Light Ecology Team. “Soundscapes of Sequoia and Kings Canyon National Parks.” Arcgis.com, 2025, [link text](www.arcgis.com/apps/Cascade/index.html?appid=9f33fa32af394a129b0b548429dced01.) Accessed 11 Feb. 2025.
+NPS Night Skies and Natural Sounds Division, and Colorado State University Sound and Light Ecology Team. “Soundscapes of Sequoia and Kings Canyon National Parks.” Arcgis.com, 2025, [www.arcgis.com/apps/Cascade/index.html?appid=9f33fa32af394a129b0b548429dced01.](www.arcgis.com/apps/Cascade/index.html?appid=9f33fa32af394a129b0b548429dced01) Accessed 11 Feb. 2025.
 
-Revista Estilo / online. “NatuUrban Symphony Por Muu Blanco En Miami.” E S T I L O / Online, 20 Nov. 2024, [link text](revistaestilo.org/2024/11/20/natuurban-symphony-por-muu-blanco-en-miami/.) Accessed 11 Feb. 2025.
+Revista Estilo / online. “NatuUrban Symphony Por Muu Blanco En Miami.” E S T I L O / Online, 20 Nov. 2024, [revistaestilo.org/2024/11/20/natuurban-symphony-por-muu-blanco-en-miami/.](revistaestilo.org/2024/11/20/natuurban-symphony-por-muu-blanco-en-miami/) Accessed 11 Feb. 2025.
 
-Tequesta. “Tequesta - HistoryMiami Museum.” HistoryMiami Museum, 9 Jan. 2025, [link text](historymiami.org/online-publications/tequesta/.) Accessed 11 Feb. 2025.
+Tequesta. “Tequesta - HistoryMiami Museum.” HistoryMiami Museum, 9 Jan. 2025, [historymiami.org/online-publications/tequesta/.](historymiami.org/online-publications/tequesta/) Accessed 11 Feb. 2025.
 
-The Underline. “Miami’s 10-Mile Linear Park and Urban Trail.” The Underline, [link text](www.theunderline.org/).
+The Underline. “Miami’s 10-Mile Linear Park and Urban Trail.” The Underline, [www.theunderline.org/](www.theunderline.org/).
 
-Trail of Florida's Indigenous Heritage. “Miami Circle National Historic Landmark.” Trail of Florida’s Indian Heritage, [link text](www.trailoffloridasindianheritage.org/miami-circle/).
+Trail of Florida's Indigenous Heritage. “Miami Circle National Historic Landmark.” Trail of Florida’s Indian Heritage, [www.trailoffloridasindianheritage.org/miami-circle/](www.trailoffloridasindianheritage.org/miami-circle/).
