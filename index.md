@@ -68,7 +68,6 @@ Elizabeth is a Ph.D. student in the Department of English at the University of M
 </table>
 
 
-### Prish
 ### Bibliography and resources
 
 Florida State Parks. “Mound Key Archaeological State Park.” Florida State Parks, 2024 <www.floridastateparks.org/parks-and-trails/mound-key-archaeological-state-park>
