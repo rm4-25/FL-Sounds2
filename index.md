@@ -71,7 +71,7 @@ Elizabeth is a Ph.D. student in the Department of English at the University of M
 ### Prish
 ### Bibliography and resources
 
-Florida State Parks. “Mound Key Archaeological State Park.” Florida State Parks, 2024 [www.floridastateparks.org/parks-and-trails/mound-key-archaeological-state-park.](www.floridastateparks.org/parks-and-trails/mound-key-archaeological-state-park.)
+Florida State Parks. “Mound Key Archaeological State Park.” Florida State Parks, 2024 <www.floridastateparks.org/parks-and-trails/mound-key-archaeological-state-park>
 
 MacFadyen, Joshua. “Digital Environmental Humanities.” De Gruyter EBooks, 4 Apr. 2022, pp. 97–106, [https://doi.org/10.1515/9783110430295-008.](https://doi.org/10.1515/9783110430295-008.)
 
