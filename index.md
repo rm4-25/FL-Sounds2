@@ -79,7 +79,7 @@ MacFadyen, Joshua. “Digital Environmental Humanities.” De Gruyter EBooks, 4 
 
 McGill University, and Bieler School of Environment. “Digital Environmental Humanities.” Dig-Eh.org, 2023, [dig-eh.org/](dig-eh.org/). Accessed 11 Feb. 2025.
 
-Musiol, Hanna. “"beyond the Word: " Immersion, Art, and Theory in Environmental and Digital Humanities Prototyping.” Digital Humanities Quaterly, vol. 15, no. 2, 1 Jan. 2021. Accessed 11 Feb. 2025.
+Musiol, Hanna. “"Beyond the Word: " Immersion, Art, and Theory in Environmental and Digital Humanities Prototyping.” Digital Humanities Quaterly, vol. 15, no. 2, 1 Jan. 2021. Accessed 11 Feb. 2025.
 
 NPS Night Skies and Natural Sounds Division, and Colorado State University Sound and Light Ecology Team. “Soundscapes of Sequoia and Kings Canyon National Parks.” Arcgis.com, 2025, [www.arcgis.com/apps/Cascade/index.html?appid=9f33fa32af394a129b0b548429dced01.](www.arcgis.com/apps/Cascade/index.html?appid=9f33fa32af394a129b0b548429dced01) Accessed 11 Feb. 2025.
 
