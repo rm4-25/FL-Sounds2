@@ -15,7 +15,7 @@ The project as a whole seeks to reassert the agency and history of flora and fau
 
 **Raul Martin IV - Project Editor and Soundcatcher** 
 
-Raul is a PhD student of English at the University of Miami. His research interests include environmental and animal studies, popular culture, speculative literature, and digital environmental humanities. His creative writing and scholarship have or will appear in _Art Studio INK, Pulse! Literary Magazine, Habits: The Good the Bad and the Ugly_, and _Gothic Nature Journal_. He is also working on a book chapter for a major publisher.
+Raul is a PhD student of English at the University of Miami. His research interests include environmental and animal studies, popular culture, speculative literature, and digital environmental humanities. His creative writing and scholarship have or will appear in _Art Studio INK, Pulse! Literary Magazine, Habits: The Good the Bad and the Ugly_, and _Gothic Nature Journal_. He is also working on a book chapter for a major publisher. [(email)](mailto:rxm1934@miami.edu)
 
 **Prishanti Pathak (she/her) - Project Developer and Soundcatcher**
 
