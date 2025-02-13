@@ -13,23 +13,24 @@ This is a project created by University of Miami doctoral students in the depart
 [^1]:[Census Reporter](https://censusreporter.org/profiles/31000US33100-miami-fort-lauderdale-west-palm-beach-fl-metro-area/)
 
 
-### Bios
+### Soundcatchers
 
-**Raul Martin IV - Project Editor and Soundcatcher** 
+**Elizabeth Cornick (she/her) - Coconut Grove Soundcatcher**
 
-Raul is a PhD student of English at the University of Miami. His research interests include environmental and animal studies, popular culture, speculative literature, and digital environmental humanities. His creative writing and scholarship have or will appear in _Art Studio INK, Pulse! Literary Magazine, Habits: The Good the Bad and the Ugly_, and _Gothic Nature Journal_. He is also working on a book chapter for a major publisher. [(email)](mailto:rxm1934@miami.edu)
+Elizabeth [(email)](mailto:rxm1934@miami.edu) is a PhD student in the Department of English at the University of Miami. Her research focuses on American studies, queer studies, and the digital humanities. Elizabeth was formerly a Digital Humanities Graduate Fellow at UM. As a fellow, she researched fictional representations of Miami to contribute to Dr. Allison Schifani’s project _Mapping Imaginary Miami_.
 
-**Prishanti Pathak (she/her) - Project Developer and Soundcatcher**
+**Raul Martin IV (he/him) - Westchester Soundcatcher** 
 
-Prishanti (Prish) is a second year PhD student in the English and Creative Writing Department at University of Miami. Her research interests are in border and migration studies, and women's literature. 
+Raul [(email)](mailto:emc988@miami.edu) is a PhD student of English at the University of Miami. His research interests include environmental and animal studies, popular culture, speculative literature, and digital environmental humanities. His creative writing and scholarship have or will appear in _Art Studio INK, Pulse! Literary Magazine, Habits: The Good the Bad and the Ugly_, and _Gothic Nature Journal_. He is also working on a book chapter for a major publisher.
 
-**Kathy Rubio - Project Developer and Soundcatcher**
+**Prishanti Pathak (she/her) - South Miami Soundcatcher**
 
-Kathy is a PhD student in the Modern Languages and Literatures Department at UM, specializing in Francophone sociolinguistics and cultural studies in France's Outre-mer. She is delighted to take part in this digital project mapping sounds of South Florida.
+Prishanti [(email)](mailto:pxp691@miami.edu) is a second year PhD student in the English and Creative Writing Department at University of Miami. Her research interests are in border and migration studies, and women's literature. 
 
-**Elizabeth Cornick - Project Assistant Editor and Soundcatcher**
+**Kathy Rubio (she/her) - Hollywood Soundcatcher**
 
-Elizabeth is a Ph.D. student in the Department of English at the University of Miami. Her research focuses on American studies, queer studies, and the digital humanities. Elizabeth was formerly a Digital Humanities Graduate Fellow at UM. As a fellow, she researched fictional representations of Miami to contribute to Dr. Allison Schifani’s project _Mapping Imaginary Miami_.
+Kathy [(email)](mailto:kxr737@miami.edu) is a PhD student in the Department of Modern Languages and Literatures at University of Miami, specializing in Francophone sociolinguistics and cultural studies in France's Outre-mer. Kathy is the founder of a small travel and language learning company, and she is currently collaborating on a book project on ethical tourism in the Caribbean.
+
 
 ### Team Workflow Table 
 <table>
