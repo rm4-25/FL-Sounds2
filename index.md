@@ -29,7 +29,7 @@ Prishanti [(email)](mailto:pxp691@miami.edu) is a second year PhD student in the
 
 **Kathy Rubio (she/her) - Hollywood Soundcatcher**
 
-Kathy [(email)](mailto:kxr737@miami.edu) is a PhD student in the Department of Modern Languages and Literatures at University of Miami, specializing in Francophone sociolinguistics and cultural studies in France's Outre-mer. Kathy is the founder of a small travel and language learning company, and she is currently collaborating on a book project on ethical tourism in the Caribbean.
+Kathy [(email)](mailto:kxr737@miami.edu) is a PhD student in the Department of Modern Languages and Literatures at University of Miami, specializing in Francophone sociolinguistics and cultural studies in France's Outre-mer. Kathy is the founder of a small travel and language learning company, and she is currently collaborating on a book project on tourism in the Caribbean.
 
 
 ### Team Workflow Table 
