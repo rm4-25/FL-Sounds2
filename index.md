@@ -45,7 +45,10 @@ Kathy [(email)](mailto:kxr737@miami.edu) is a PhD student in the Department of M
 <tbody>
 <tr>
 <td>5</td>
-<td>Collect 2 samples of local sound; Group Report 1</td>
+<td> <ul>
+<li>Collect 2 samples of local sound</li>
+<li>Group Report 1</li>
+</ul> <br> </td>
 <td>In progress</td>
 <td>Raul, Kathy, Prishanti, &amp; Elizabeth</td>
 </tr>
