@@ -46,8 +46,8 @@ Kathy [(email)](mailto:kxr737@miami.edu) is a PhD student in the Department of M
 <tr>
 <td>5</td>
 <td> <ul>
-<li>Collect 2 samples of local sound</li>
-<li>Group Report 1</li>
+<li>Build Github page</li>
+<li>Collect potential jekyll Github themes</li>
 </ul> <br> </td>
 <td>In progress</td>
 <td>Raul, Kathy, Prishanti, &amp; Elizabeth</td>
