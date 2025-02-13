@@ -8,7 +8,7 @@ This Leaflet Story Map attempts to answer this question through sounds captured 
 
 The project as a whole seeks to reassert the agency and history of flora and fauna in assumed human spaces, thereby recapturing the reality of our shared ecosystem, even in a region of 6.1 million people [^1]. We hope that by making these sounds public, local and aspiring residents or visitors who may not otherwise find these areas accessible to them may explore the soundscapes that represent South Florida's human and more than human ecosystem. More than anything, these soundscapes are evidence of our taking pause to listen and connect with the places in which we live. The project is less about the sound bite and more about taking that pause and listening in/to South Florida. Our hope is that these unique - limitedly preserved- soundscapes transform how you experience your own environment, wherever you are.
 
-This is a project created by University of Miami doctoral students in the departments of Modern Languages and Literature and English. We are soundcatchers listening in/to South Florida! 
+This is a project created by University of Miami doctoral students in the departments of Modern Languages and Literature and English & Creative Writing. We are soundcatchers listening in/to South Florida! 
 
 [^1]:[Census Reporter](https://censusreporter.org/profiles/31000US33100-miami-fort-lauderdale-west-palm-beach-fl-metro-area/)
 
