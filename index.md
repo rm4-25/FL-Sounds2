@@ -256,6 +256,8 @@ Kathy [(email)](mailto:kxr737@miami.edu) is a PhD student in the Department of M
 
 ### Bibliography and resources
 
+Cronon, William. "The Trouble with Wilderness or, getting back to the Wrong Nature." William Cronon, 1992 [https://www.williamcronon.net/writing/Trouble_with_Wilderness_Main.html](https://www.williamcronon.net/writing/Trouble_with_Wilderness_Main.html)
+
 Florida State Parks. “Mound Key Archaeological State Park.” Florida State Parks, 2024 [https://www.floridastateparks.org/parks-and-trails/mound-key-archaeological-state-park](https://www.floridastateparks.org/parks-and-trails/mound-key-archaeological-state-park)
 
 MacFadyen, Joshua. “Digital Environmental Humanities.” De Gruyter EBooks, 4 Apr. 2022, pp. 97–106, [https://doi.org/10.1515/9783110430295-008](https://doi.org/10.1515/9783110430295-008)
