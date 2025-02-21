@@ -15,7 +15,7 @@ This is a project created by University of Miami doctoral students in the depart
 ### Leaflet Story Map
 
 <iframe frameborder="0"
-  src="https://rm4-25.github.io/moonlight_story-map" >
+  src="https://rm4-25.github.io/moonlight_story-map" width="100%" height="100%">
 </iframe>
 
 ### Soundcatchers
