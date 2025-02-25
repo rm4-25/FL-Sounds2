@@ -66,7 +66,7 @@ Kathy [(email)](mailto:kxr737@miami.edu) is a PhD student in the Department of M
     <td>
       <ul>
         <li>Complete</li>
-        <li>In progress</li>
+        <li>Complete</li>
       </ul>
     </td>
   </tr>
@@ -92,7 +92,7 @@ Kathy [(email)](mailto:kxr737@miami.edu) is a PhD student in the Department of M
         <li>Everyone</li>
       </ul>
     </td>
-    <td>In progress</td>
+    <td>Complete</td>
   </tr>
   <tr>
     <td>25-Feb </td>
@@ -100,6 +100,7 @@ Kathy [(email)](mailto:kxr737@miami.edu) is a PhD student in the Department of M
       <ul>
         <li>Collect final sound samples</li>
         <li>Add sound sample/collection data</li>
+        <li>Create google form for data entry</li>
         <li>Decide on Jekyll Theme</li>
         <li>Upload preliminary audio files to Github page</li>
         <li>Embed Leaflet in Github page</li>
@@ -116,7 +117,7 @@ Kathy [(email)](mailto:kxr737@miami.edu) is a PhD student in the Department of M
         <li>Everyone</li>
       </ul>
     </td>
-    <td>Not started</td>
+    <td>In progress</td>
   </tr>
   <tr>
     <td>4-Mar </td>
