@@ -93,7 +93,7 @@ Kathy [(email)](mailto:kxr737@miami.edu) is a PhD student in the Department of M
       </ul>
     </td>
     <td>
-      </ul>
+      <ul>
         <li>Complete</li>
         <li>Complete</li>
         <li>In progress</li>
