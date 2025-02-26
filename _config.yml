@@ -2,7 +2,7 @@ title: Listening in/to South Florida
 description: A Digital Environmental Humanities Project
 show_downloads: false
 google_analytics: none
-theme: "jekyll-slate"
+theme: "jekyll-theme-slate"
 
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
